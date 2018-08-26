@@ -7,8 +7,9 @@ Download MySql Workbench
 
 # Project Set Up
 
-**Set Up MySql Database**
+**Set Up MySql Database**<br />
 Run the files in the SqlScripts direectory<br />
+
 Ensure that the script run seperately **in order**
 1. AccHealthCreate
 2. AccHealthSchema
