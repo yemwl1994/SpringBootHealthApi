@@ -18,7 +18,7 @@ Ensure that the script run seperately **in order**
 5. acc_health_gen_doc_info
 6. acc_health_general_booking_log
 
-Clone the git repository using the following into your desire directory
+Clone the project repository using the following instruction in your command prompt into your desire directory
 ```
 git clone https://github.com/yemwl1994/SpringBootHealthApi.git
 ```
