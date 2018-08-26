@@ -32,6 +32,6 @@ mvn spring-boot:run
 ```
 
 # Notes
-Ensure the database is set up on port 3306.
-The Application will run on the localhost with port 8888
+Ensure the database is set up on port 3306.<br/>
+The Application will run on the localhost with port 8888 <br/>
 URL Base and Context Path example : http://localhost:8888/accenture/healthcare/1.0.0/
