@@ -2,13 +2,13 @@
 This an API Services written in Java using Spring Boot Framework and MySQL as its database.
 
 # Requirement
-Download java Version > v1.8 , Maven > v3.2
+Download java Version > v1.8 , Maven > v3.2<br />
 Download MySql Workbench
 
 # Project Set Up
 
 **Set Up MySql Database**
-Run the files in the SqlScripts direectory
+Run the files in the SqlScripts direectory<br />
 Ensure that the script run seperately **in order**
 1. AccHealthCreate
 2. AccHealthSchema
